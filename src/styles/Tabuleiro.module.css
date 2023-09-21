@@ -1,0 +1,18 @@
+/* Tabuleiro.module.css */
+.fundo {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.Preto {
+  width: 50px;
+  height: 50px;
+  background-color: #000;
+}
+
+.Branco {
+  width: 50px;
+  height: 50px;
+  background-color: #fff;
+}
